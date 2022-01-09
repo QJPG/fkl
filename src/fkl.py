@@ -82,4 +82,4 @@ class FKL:
 
 
 
-print(FKL('role.fkl')._tree)
+#print(FKL('role.fkl')._tree)
