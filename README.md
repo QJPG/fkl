@@ -1,8 +1,9 @@
 # fkl
 Simple Markeup Language to Python
-[![Screenshot](2022-01-09.png)]
+![Screenshot](2022-01-09.png)
 
 ```
+types:
 ; -> float value
 ! -> int value
 ? -> bool value
